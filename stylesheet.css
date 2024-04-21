@@ -1,0 +1,70 @@
+body{
+	background: linear-gradient(rgba(0,0,50,0.5), rgba(0,0,50, 0.5)),url(image1.jpg);
+	background-size: cover;
+	background-position:  center;
+}
+.body-register-page
+{
+	background: linear-gradient(rgba(0,0,50,0.5), rgba(0,0,50, 0.5)),url(image11.jpg);
+	background-size: cover;
+	background-position:  center;
+	
+}
+
+.body-home-page
+{
+	background: linear-gradient(rgba(0,0,50,0.4), rgba(0,0,50, 0.4)),url(image12.jpg);
+	background-size: cover;
+	background-position:  center;
+	
+}
+
+.login-box{
+
+	max-width:800px;
+	float: center;
+	margin-top: 10px;
+}
+
+
+
+.login-left{
+	background : rgba(211,211,211,0.6);
+	padding: 30px;
+}
+
+.login-right{
+	background: #fff;
+	padding: 30px;
+}
+
+
+.form-control{
+	background-color: transparent !important;
+	
+}
+
+a{
+	color: #fff !important;
+	font-size: 25px;
+	margin-top: -70px !important;
+}
+
+.a1-login-page{
+	color: rgba(45,200,80,1) !important;
+}
+
+.h23-home-page{ 
+	color: #ff1 !important;
+}
+
+h1{
+	color: #fff !important;
+	margin-top: 100px !important;
+	margin-bottom: 50px !important;
+	text-align: center;
+	text-transform: uppercase;
+
+	
+}
+
